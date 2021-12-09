@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Auto-responses
-// @namespace    https://forum.arizona-rp.com
+// @namespace    https://forum.robo-hamster.ru
 // @version      1.0
 // @description  try to take over the world!
-// @author       Philipp Zelinski
-// @match        https://forum.arizona-rp.com/threads/*
+// @author       Insaf Benson
+// @match        https://forum.robo-hamster.ru
 // @grant        none
 // ==/UserScript==
 
